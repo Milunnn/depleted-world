@@ -1,0 +1,9 @@
+{
+   "name": "depleted-world",
+   "version": "0.0.2",
+   "title": "Depleted World",
+   "author": "Milunnn",
+   "factorio_version": "1.0",
+   "dependencies": ["base >= 1.0", "rso-mod"],
+   "description": "Creates a new preset for the RSO (Resource Spawner Overhaul) mod, where ore is scarce and wide apart."
+}
